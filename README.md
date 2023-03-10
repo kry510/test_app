@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-1. Complete Ruby 
+1. First test 
